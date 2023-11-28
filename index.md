@@ -1,18 +1,23 @@
 ---
 layout: default
 ---
+Mi primer portafolio elaborado en el curso de
+**GESCONVIAL**.
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+En el que les presentaré los proyectos que he elaborado.
 
-[Link to another page](./another-page.html).
+[Facebook](./another-page.html)
+[Instagram](./another-page.html)
+[Gmail](./another-page.html)
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Registros sísmico
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+
+![imagen1](assets/img/aceleraciones2.png)
+
+
 
 ## Header 2
 
@@ -20,61 +25,50 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### APUNTES ESTRUCTURALES
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Material elaborado en el curso de resistencia de materiales para estudiar y comprender el comportamiento de un elemento shell.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+![imagen2](assets/img/shell.png)
 
 #### Header 4
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
 
 ##### Header 5
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1. This is an ordered list following a header.
+2. This is an ordered list following a header.
+3. This is an ordered list following a header.
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| head1        | head two            | three |
+| :----------- | :------------------ | :---- |
+| ok           | good swedish fish   | nice  |
+| out of stock | good and plenty     | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
-* * *
+---
 
 ### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* Item foo
+* Item bar
+* Item baz
+* Item zip
 
 ### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+1. Item one
+2. Item two
+3. Item three
+4. Item four
 
 ### And a nested list:
 
@@ -99,7 +93,6 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
