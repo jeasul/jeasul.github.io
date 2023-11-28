@@ -29,7 +29,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 Material elaborado en el curso de resistencia de materiales para estudiar y comprender el comportamiento de un elemento shell.
 
-![imagen2](assets/img/shell.png)
+![imagen2](assets/img/Shell.png)
 
 #### Header 4
 
