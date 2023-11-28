@@ -1,6 +1,6 @@
 title: Jesús Miguel Arias Zaldívar
 logo: /assets/img/Foto_mia2.jpg
 description: Minimal is a theme for GitHub Pages.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
